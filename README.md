@@ -26,7 +26,7 @@ Features
 
 
 <h3 align=center>Download for Android and windows</h3>
-<p align="center"><a href="https://github.com/HemantKArya/Erode 7 Tunes/releases"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=40/></a>
+<p align="center"><a href="https://github.com/HemantKArya/Erode 7 Tunes/releases">
 <a href="https://sourceforge.net/projects/bloomee/files/latest/download"><img alt="Download Erode 7 Tunes" src="https://a.fsdn.com/con/app/sf-download-button" height=40 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a></p>
 </br>
 
