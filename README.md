@@ -1,4 +1,4 @@
- ![Erode 7 Tunes](./assets/docs/erode7tunes_new_banner.png)
+
 **<h1 align=center>Erode7tunes</h1>**
 
 Ad-Free Experience:** Say goodbye to interruptions and enjoy uninterrupted musical bliss.
