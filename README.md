@@ -12,20 +12,9 @@
 
 Bloomee is experimental cross-platform open Source Music player designed to bring you Ad-free tunes from various sources. Dive into a world of limitless music from platforms like YouTube and YTM, with more sources blooming soon! 🌼🎵
 
+Ad-Free Experience:** Say goodbye to interruptions and enjoy uninterrupted musical bliss.
 
-![Erode 7 TunesScrnShots](./assets/docs/banner2BloomeScrnShot.png)
-
-![BloomeeDesktop](./assets/docs/lyricsscrn.png)
-
-### **Why Bloomee?**
-
-🌟 **Ad-Free Experience:** Say goodbye to interruptions and enjoy uninterrupted musical bliss.
-
-🌍 **Multi-Source Player:** Access your favorite tracks from diverse platforms, with more sources continually joining our melody garden.
-
-🚀 **Flutter-Powered Learning:** Bloomee is not just about music; it's about learning and growing with Flutter and BLoC architecture. Explore the intersection of beautiful design and smooth functionality while mastering the art of app development.
-
-### **Features**
+Features
 - [x] 🚫 Ad-Free Music
 - [x] 📝 Lyrics Support (Time Synced)
 - [x] 📊 Scrobble music with Last.FM
