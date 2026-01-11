@@ -1,16 +1,5 @@
  ![Erode 7 Tunes](./assets/docs/erode7tunes_new_banner.png)
 **<h1 align=center>Erode7tunes</h1>**
-<p align="center"><img src=https://img.shields.io/sourceforge/dt/bloomee?style=for-the-badge&logoSize=auto&label=DOWNLOADS(SF)
- /> <a href="https://github.com/HemantKArya/Erode 7 Tunes/releases/latest"><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/HemantKArya/Erode 7 Tunes/total?style=for-the-badge&label=DOWNLOADS(GH)" >
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/HemantKArya/Erode 7 Tunes?display_name=release&style=for-the-badge&color=f01d7c" ></a>
-<img alt="GitHub License" src="https://img.shields.io/github/license/HemantKArya/Erode 7 Tunes?style=for-the-badge&color=1881cc" > <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/HemantKArya/Erode 7 Tunes/checkout.yml?style=for-the-badge" > <br><img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white > <img src=https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-<p align="center">
-    <a href="https://trendshift.io/repositories/11533" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11533" alt="HemantKArya%2FErode 7 Tunes | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
-
-
-Bloomee is experimental cross-platform open Source Music player designed to bring you Ad-free tunes from various sources. Dive into a world of limitless music from platforms like YouTube and YTM, with more sources blooming soon! 🌼🎵
 
 Ad-Free Experience:** Say goodbye to interruptions and enjoy uninterrupted musical bliss.
 
