@@ -1,5 +1,5 @@
  ![Erode 7 Tunes](./assets/docs/erode7tunes_new_banner.png)
-**<h1 align=center>Bloomee🌸</h1>**
+**<h1 align=center>Erode7tunes</h1>**
 <p align="center"><img src=https://img.shields.io/sourceforge/dt/bloomee?style=for-the-badge&logoSize=auto&label=DOWNLOADS(SF)
  /> <a href="https://github.com/HemantKArya/Erode 7 Tunes/releases/latest"><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/HemantKArya/Erode 7 Tunes/total?style=for-the-badge&label=DOWNLOADS(GH)" >
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/HemantKArya/Erode 7 Tunes?display_name=release&style=for-the-badge&color=f01d7c" ></a>
