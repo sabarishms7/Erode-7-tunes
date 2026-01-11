@@ -30,9 +30,5 @@ Features
 <a href="https://sourceforge.net/projects/bloomee/files/latest/download"><img alt="Download Erode 7 Tunes" src="https://a.fsdn.com/con/app/sf-download-button" height=40 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a></p>
 </br>
 
-<h3 align="center"> Now you can support me via</h3>
-<p align="center"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"><br><img src="https://img.shields.io/liberapay/receives/hemantkarya?style=for-the-badge
-"> <img src="https://img.shields.io/liberapay/patrons/hemantkarya?style=for-the-badge"><br><a href="https://liberapay.com/hemantkarya/donate"></p>
-
 
 
