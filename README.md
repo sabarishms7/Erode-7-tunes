@@ -35,26 +35,4 @@ Features
 "> <img src="https://img.shields.io/liberapay/patrons/hemantkarya?style=for-the-badge"><br><a href="https://liberapay.com/hemantkarya/donate"></p>
 
 
-### **Contribute to Erode 7 Tunes! 🎶**
-
-🌱 **Every Note Counts:** Your contribution, no matter how small, adds to the richness of Bloomee. Whether you're fixing a bug, enhancing features, or suggesting improvements, your notes in our melody matter. Also I'm new to flutter, So every contribution will help me and this project.
-
-🚀 **Learn and Grow:** Contribute to Bloomee and enhance your Flutter and BLoC skills. Every pull request is an opportunity to learn, and we encourage contributors of all levels to join the journey.
-
-To ensure a smooth and collaborative contribution process, we kindly ask that you first open an issue to discuss your ideas or proposed changes. This helps us align on the best approach and makes the review process more efficient. For detailed guidelines, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md).
-
-**How to Contribute:**
-
-1. **Fork the Repository:** Start your Bloomee journey by forking **main(Branch)**.
-
-2. **Clone Locally:** Clone the forked repository to your local machine.
-
-3. **Create a Branch:** Create a new branch for your contribution.
-
-4. **Make Changes:** Make your contribution - fix a bug, add a feature, or improve the documentation.
-
-5. **Push Changes:** Push your changes to your forked repository.
-
-6. **Create a Pull Request:** Submit a pull request, and let your notes join the Bloomee Symphony!
-
 
